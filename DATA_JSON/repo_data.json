@@ -1,0 +1,72 @@
+{
+    "DeCharla": {
+        "Levels": {
+            "A2": 324,
+            "B1": 26,
+            "A1": 278
+        },
+        "Class": {
+            "Simple Atributte": 295,
+            "From": 19,
+            "Relative From": 5,
+            "Simple Assignment": 153,
+            "Inherited Class from AppConfig": 1,
+            "Simple List": 6,
+            "From with 'as' extension ": 2,
+            "Simple Class ": 11,
+            "Simple Tuple": 16,
+            "Str": 4,
+            "Function with Simple argument": 22,
+            "Return": 40,
+            "Assigment with sum (total = total +)": 3,
+            "Simple Dictionary": 7,
+            "Int": 1,
+            "Simplified incremental Assignment with increase amount": 1,
+            "Simplified incremental Assignment with decrease subtraction": 1,
+            "'raise' exception": 1,
+            "Import": 1,
+            "Simple If statements": 27,
+            "Simple For Loop": 5,
+            "Exception --> try/except": 5,
+            "Function with Simple argument with ** argument": 1,
+            "Function": 1
+        }
+    },
+    "migrations": {
+        "Levels": {
+            "A1": 108,
+            "A2": 133,
+            "B1": 13
+        },
+        "Class": {
+            "Simple List": 35,
+            "Simple Tuple": 46,
+            "Simple Atributte": 114,
+            "Simple Assignment": 27,
+            "Import": 5,
+            "From": 14,
+            "Simple Class ": 13
+        }
+    },
+    "final": {
+        "Levels": {
+            "A2": 35,
+            "A1": 38,
+            "B1": 4,
+            "B2": 1
+        },
+        "Class": {
+            "Simple Atributte": 19,
+            "Simple Assignment": 27,
+            "Import": 3,
+            "From": 8,
+            "Simple List": 9,
+            " Dictionary List": 2,
+            "Simple Tuple": 2,
+            " Nested Dictionary": 1,
+            " List inDictionary of Dictionary": 1,
+            "Simple Dictionary": 5,
+            " List Dictionary": 1
+        }
+    }
+}

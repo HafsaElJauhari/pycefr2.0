@@ -1,0 +1,967 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,6,6,0,A2
+DeCharla,admin.py,Simple Atributte,7,7,0,A2
+DeCharla,admin.py,Simple Atributte,8,8,0,A2
+DeCharla,admin.py,Simple Atributte,9,9,0,A2
+DeCharla,admin.py,Simple Atributte,10,10,0,A2
+DeCharla,admin.py,Simple Atributte,11,11,0,A2
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,6,6,0,A2
+DeCharla,admin.py,Simple Atributte,7,7,0,A2
+DeCharla,admin.py,Simple Atributte,8,8,0,A2
+DeCharla,admin.py,Simple Atributte,9,9,0,A2
+DeCharla,admin.py,Simple Atributte,10,10,0,A2
+DeCharla,admin.py,Simple Atributte,11,11,0,A2
+DeCharla,admin.py,From,1,1,0,A2
+DeCharla,admin.py,Relative From,2,2,0,B1
+DeCharla,apps.py,Simple Assignment,5,5,4,A1
+DeCharla,apps.py,Simple Assignment,5,5,4,A1
+DeCharla,apps.py,Simple Assignment,6,6,4,A1
+DeCharla,apps.py,From,1,1,0,A2
+DeCharla,apps.py,Inherited Class from AppConfig,4,6,0,B1
+DeCharla,forms.py,Simple List,10,10,17,A1
+DeCharla,forms.py,Simple List,10,10,17,A1
+DeCharla,forms.py,Simple Atributte,5,5,18,A2
+DeCharla,forms.py,Simple Atributte,12,12,24,A2
+DeCharla,forms.py,Simple Atributte,17,17,15,A2
+DeCharla,forms.py,Simple Atributte,6,6,16,A2
+DeCharla,forms.py,Simple Atributte,7,7,13,A2
+DeCharla,forms.py,Simple Atributte,13,13,13,A2
+DeCharla,forms.py,Simple Atributte,14,14,20,A2
+DeCharla,forms.py,Simple Atributte,15,15,18,A2
+DeCharla,forms.py,Simple Atributte,18,18,18,A2
+DeCharla,forms.py,Simple Atributte,6,6,39,A2
+DeCharla,forms.py,Simple Atributte,14,14,78,A2
+DeCharla,forms.py,Simple Atributte,15,15,71,A2
+DeCharla,forms.py,Simple Assignment,6,6,4,A1
+DeCharla,forms.py,Simple Assignment,7,7,4,A1
+DeCharla,forms.py,Simple Assignment,13,13,4,A1
+DeCharla,forms.py,Simple Assignment,14,14,4,A1
+DeCharla,forms.py,Simple Assignment,15,15,4,A1
+DeCharla,forms.py,Simple Assignment,18,18,4,A1
+DeCharla,forms.py,Simple Assignment,9,9,8,A1
+DeCharla,forms.py,Simple Assignment,10,10,8,A1
+DeCharla,forms.py,From with 'as' extension ,1,1,0,B1
+DeCharla,forms.py,From,2,2,0,A2
+DeCharla,forms.py,Relative From,3,3,0,B1
+DeCharla,forms.py,Simple Class ,5,10,0,B1
+DeCharla,forms.py,Simple Class ,12,15,0,B1
+DeCharla,forms.py,Simple Class ,17,18,0,B1
+DeCharla,forms.py,Simple Class ,8,10,4,B1
+migrations,0001_initial.py,Simple List,12,14,19,A1
+migrations,0001_initial.py,Simple List,12,14,19,A1
+migrations,0001_initial.py,Simple List,16,63,17,A1
+migrations,0001_initial.py,Simple List,19,22,19,A1
+migrations,0001_initial.py,Simple List,26,30,19,A1
+migrations,0001_initial.py,Simple List,34,39,19,A1
+migrations,0001_initial.py,Simple List,43,51,19,A1
+migrations,0001_initial.py,Simple List,55,61,19,A1
+migrations,0001_initial.py,Simple List,58,58,70,A1
+migrations,0001_initial.py,Simple List,59,59,57,A1
+migrations,0001_initial.py,Simple Tuple,20,20,16,A1
+migrations,0001_initial.py,Simple Tuple,21,21,16,A1
+migrations,0001_initial.py,Simple Tuple,27,27,16,A1
+migrations,0001_initial.py,Simple Tuple,28,28,16,A1
+migrations,0001_initial.py,Simple Tuple,29,29,16,A1
+migrations,0001_initial.py,Simple Tuple,35,35,16,A1
+migrations,0001_initial.py,Simple Tuple,36,36,16,A1
+migrations,0001_initial.py,Simple Tuple,37,37,16,A1
+migrations,0001_initial.py,Simple Tuple,38,38,16,A1
+migrations,0001_initial.py,Simple Tuple,44,44,16,A1
+migrations,0001_initial.py,Simple Tuple,45,45,16,A1
+migrations,0001_initial.py,Simple Tuple,46,46,16,A1
+migrations,0001_initial.py,Simple Tuple,47,47,16,A1
+migrations,0001_initial.py,Simple Tuple,48,48,16,A1
+migrations,0001_initial.py,Simple Tuple,49,49,16,A1
+migrations,0001_initial.py,Simple Tuple,50,50,16,A1
+migrations,0001_initial.py,Simple Tuple,56,56,16,A1
+migrations,0001_initial.py,Simple Tuple,57,57,16,A1
+migrations,0001_initial.py,Simple Tuple,58,58,16,A1
+migrations,0001_initial.py,Simple Tuple,59,59,16,A1
+migrations,0001_initial.py,Simple Tuple,60,60,16,A1
+migrations,0001_initial.py,Simple Tuple,58,58,71,A1
+migrations,0001_initial.py,Simple Tuple,58,58,91,A1
+migrations,0001_initial.py,Simple Tuple,58,58,108,A1
+migrations,0001_initial.py,Simple Tuple,59,59,58,A1
+migrations,0001_initial.py,Simple Tuple,59,59,78,A1
+migrations,0001_initial.py,Simple Tuple,59,59,118,A1
+migrations,0001_initial.py,Simple Atributte,8,8,16,A2
+migrations,0001_initial.py,Simple Atributte,13,13,8,A2
+migrations,0001_initial.py,Simple Atributte,13,13,40,A2
+migrations,0001_initial.py,Simple Atributte,17,17,8,A2
+migrations,0001_initial.py,Simple Atributte,24,24,8,A2
+migrations,0001_initial.py,Simple Atributte,32,32,8,A2
+migrations,0001_initial.py,Simple Atributte,41,41,8,A2
+migrations,0001_initial.py,Simple Atributte,53,53,8,A2
+migrations,0001_initial.py,Simple Atributte,20,20,23,A2
+migrations,0001_initial.py,Simple Atributte,21,21,31,A2
+migrations,0001_initial.py,Simple Atributte,27,27,23,A2
+migrations,0001_initial.py,Simple Atributte,28,28,27,A2
+migrations,0001_initial.py,Simple Atributte,29,29,27,A2
+migrations,0001_initial.py,Simple Atributte,35,35,23,A2
+migrations,0001_initial.py,Simple Atributte,36,36,27,A2
+migrations,0001_initial.py,Simple Atributte,37,37,26,A2
+migrations,0001_initial.py,Simple Atributte,38,38,28,A2
+migrations,0001_initial.py,Simple Atributte,44,44,23,A2
+migrations,0001_initial.py,Simple Atributte,45,45,30,A2
+migrations,0001_initial.py,Simple Atributte,46,46,27,A2
+migrations,0001_initial.py,Simple Atributte,47,47,26,A2
+migrations,0001_initial.py,Simple Atributte,48,48,27,A2
+migrations,0001_initial.py,Simple Atributte,49,49,28,A2
+migrations,0001_initial.py,Simple Atributte,50,50,25,A2
+migrations,0001_initial.py,Simple Atributte,56,56,23,A2
+migrations,0001_initial.py,Simple Atributte,57,57,27,A2
+migrations,0001_initial.py,Simple Atributte,58,58,34,A2
+migrations,0001_initial.py,Simple Atributte,59,59,32,A2
+migrations,0001_initial.py,Simple Atributte,60,60,27,A2
+migrations,0001_initial.py,Simple Atributte,38,38,56,A2
+migrations,0001_initial.py,Simple Atributte,38,38,94,A2
+migrations,0001_initial.py,Simple Atributte,49,49,56,A2
+migrations,0001_initial.py,Simple Atributte,49,49,94,A2
+migrations,0001_initial.py,Simple Atributte,50,50,53,A2
+migrations,0001_initial.py,Simple Atributte,60,60,58,A2
+migrations,0001_initial.py,Simple Atributte,38,38,56,A2
+migrations,0001_initial.py,Simple Atributte,49,49,56,A2
+migrations,0001_initial.py,Simple Atributte,50,50,53,A2
+migrations,0001_initial.py,Simple Atributte,60,60,58,A2
+migrations,0001_initial.py,Simple Atributte,38,38,56,A2
+migrations,0001_initial.py,Simple Atributte,49,49,56,A2
+migrations,0001_initial.py,Simple Atributte,50,50,53,A2
+migrations,0001_initial.py,Simple Atributte,60,60,58,A2
+migrations,0001_initial.py,Simple Atributte,38,38,56,A2
+migrations,0001_initial.py,Simple Atributte,49,49,56,A2
+migrations,0001_initial.py,Simple Atributte,50,50,53,A2
+migrations,0001_initial.py,Simple Atributte,60,60,58,A2
+migrations,0001_initial.py,Simple Assignment,10,10,4,A1
+migrations,0001_initial.py,Simple Assignment,12,14,4,A1
+migrations,0001_initial.py,Simple Assignment,16,63,4,A1
+migrations,0001_initial.py,Import,5,5,0,A2
+migrations,0001_initial.py,From,3,3,0,A2
+migrations,0001_initial.py,From,4,4,0,A2
+migrations,0001_initial.py,Simple Class ,8,63,0,B1
+migrations,0002_alter_mensaje_creador.py,Simple List,8,10,19,A1
+migrations,0002_alter_mensaje_creador.py,Simple List,8,10,19,A1
+migrations,0002_alter_mensaje_creador.py,Simple List,12,18,17,A1
+migrations,0002_alter_mensaje_creador.py,Simple Tuple,9,9,8,A1
+migrations,0002_alter_mensaje_creador.py,Simple Atributte,6,6,16,A2
+migrations,0002_alter_mensaje_creador.py,Simple Atributte,13,13,8,A2
+migrations,0002_alter_mensaje_creador.py,Simple Atributte,16,16,18,A2
+migrations,0002_alter_mensaje_creador.py,Simple Assignment,8,10,4,A1
+migrations,0002_alter_mensaje_creador.py,Simple Assignment,12,18,4,A1
+migrations,0002_alter_mensaje_creador.py,From,3,3,0,A2
+migrations,0002_alter_mensaje_creador.py,Simple Class ,6,18,0,B1
+migrations,0003_ultimavisita.py,Simple List,9,11,19,A1
+migrations,0003_ultimavisita.py,Simple List,9,11,19,A1
+migrations,0003_ultimavisita.py,Simple List,13,23,17,A1
+migrations,0003_ultimavisita.py,Simple List,16,21,19,A1
+migrations,0003_ultimavisita.py,Simple Tuple,10,10,8,A1
+migrations,0003_ultimavisita.py,Simple Tuple,17,17,16,A1
+migrations,0003_ultimavisita.py,Simple Tuple,18,18,16,A1
+migrations,0003_ultimavisita.py,Simple Tuple,19,19,16,A1
+migrations,0003_ultimavisita.py,Simple Tuple,20,20,16,A1
+migrations,0003_ultimavisita.py,Simple Atributte,7,7,16,A2
+migrations,0003_ultimavisita.py,Simple Atributte,14,14,8,A2
+migrations,0003_ultimavisita.py,Simple Atributte,17,17,23,A2
+migrations,0003_ultimavisita.py,Simple Atributte,18,18,31,A2
+migrations,0003_ultimavisita.py,Simple Atributte,19,19,25,A2
+migrations,0003_ultimavisita.py,Simple Atributte,20,20,27,A2
+migrations,0003_ultimavisita.py,Simple Atributte,19,19,53,A2
+migrations,0003_ultimavisita.py,Simple Atributte,20,20,55,A2
+migrations,0003_ultimavisita.py,Simple Atributte,19,19,53,A2
+migrations,0003_ultimavisita.py,Simple Atributte,20,20,55,A2
+migrations,0003_ultimavisita.py,Simple Atributte,19,19,53,A2
+migrations,0003_ultimavisita.py,Simple Atributte,20,20,55,A2
+migrations,0003_ultimavisita.py,Simple Atributte,19,19,53,A2
+migrations,0003_ultimavisita.py,Simple Atributte,20,20,55,A2
+migrations,0003_ultimavisita.py,Simple Assignment,9,11,4,A1
+migrations,0003_ultimavisita.py,Simple Assignment,13,23,4,A1
+migrations,0003_ultimavisita.py,Import,4,4,0,A2
+migrations,0003_ultimavisita.py,From,3,3,0,A2
+migrations,0003_ultimavisita.py,Simple Class ,7,23,0,B1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple List,8,10,19,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple List,8,10,19,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple List,12,18,17,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Tuple,9,9,8,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Atributte,6,6,16,A2
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Atributte,13,13,8,A2
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Atributte,16,16,18,A2
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Assignment,8,10,4,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Assignment,12,18,4,A1
+migrations,0004_ultimavisita_mensajes_no_leidos.py,From,3,3,0,A2
+migrations,0004_ultimavisita_mensajes_no_leidos.py,Simple Class ,6,18,0,B1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple List,8,10,19,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple List,8,10,19,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple List,12,18,17,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Tuple,9,9,8,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Atributte,6,6,16,A2
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Atributte,13,13,8,A2
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Assignment,8,10,4,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Assignment,12,18,4,A1
+migrations,0005_rename_cookie_sesion_cookie_user.py,From,3,3,0,A2
+migrations,0005_rename_cookie_sesion_cookie_user.py,Simple Class ,6,18,0,B1
+migrations,0006_sala_votos_voto.py,Simple List,9,11,19,A1
+migrations,0006_sala_votos_voto.py,Simple List,9,11,19,A1
+migrations,0006_sala_votos_voto.py,Simple List,13,27,17,A1
+migrations,0006_sala_votos_voto.py,Simple List,21,25,19,A1
+migrations,0006_sala_votos_voto.py,Simple Tuple,10,10,8,A1
+migrations,0006_sala_votos_voto.py,Simple Tuple,22,22,16,A1
+migrations,0006_sala_votos_voto.py,Simple Tuple,23,23,16,A1
+migrations,0006_sala_votos_voto.py,Simple Tuple,24,24,16,A1
+migrations,0006_sala_votos_voto.py,Simple Atributte,7,7,16,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,14,14,8,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,19,19,8,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,17,17,18,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,22,22,23,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,23,23,25,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,24,24,27,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,23,23,53,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,24,24,55,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,23,23,53,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,24,24,55,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,23,23,53,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,24,24,55,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,23,23,53,A2
+migrations,0006_sala_votos_voto.py,Simple Atributte,24,24,55,A2
+migrations,0006_sala_votos_voto.py,Simple Assignment,9,11,4,A1
+migrations,0006_sala_votos_voto.py,Simple Assignment,13,27,4,A1
+migrations,0006_sala_votos_voto.py,Import,4,4,0,A2
+migrations,0006_sala_votos_voto.py,From,3,3,0,A2
+migrations,0006_sala_votos_voto.py,Simple Class ,7,27,0,B1
+migrations,0007_sala_megusta.py,Simple List,8,10,19,A1
+migrations,0007_sala_megusta.py,Simple List,8,10,19,A1
+migrations,0007_sala_megusta.py,Simple List,12,18,17,A1
+migrations,0007_sala_megusta.py,Simple Tuple,9,9,8,A1
+migrations,0007_sala_megusta.py,Simple Atributte,6,6,16,A2
+migrations,0007_sala_megusta.py,Simple Atributte,13,13,8,A2
+migrations,0007_sala_megusta.py,Simple Atributte,16,16,18,A2
+migrations,0007_sala_megusta.py,Simple Assignment,8,10,4,A1
+migrations,0007_sala_megusta.py,Simple Assignment,12,18,4,A1
+migrations,0007_sala_megusta.py,From,3,3,0,A2
+migrations,0007_sala_megusta.py,Simple Class ,6,18,0,B1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple List,8,10,19,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple List,8,10,19,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple List,12,22,17,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Tuple,9,9,8,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Atributte,6,6,16,A2
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Atributte,13,13,8,A2
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Atributte,17,17,8,A2
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Atributte,20,20,18,A2
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Assignment,8,10,4,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Assignment,12,22,4,A1
+migrations,0008_remove_sala_megusta_voto_megusta.py,From,3,3,0,A2
+migrations,0008_remove_sala_megusta_voto_megusta.py,Simple Class ,6,22,0,B1
+migrations,0009_alter_mensaje_imagen.py,Simple List,8,10,19,A1
+migrations,0009_alter_mensaje_imagen.py,Simple List,8,10,19,A1
+migrations,0009_alter_mensaje_imagen.py,Simple List,12,18,17,A1
+migrations,0009_alter_mensaje_imagen.py,Simple Tuple,9,9,8,A1
+migrations,0009_alter_mensaje_imagen.py,Simple Atributte,6,6,16,A2
+migrations,0009_alter_mensaje_imagen.py,Simple Atributte,13,13,8,A2
+migrations,0009_alter_mensaje_imagen.py,Simple Atributte,16,16,18,A2
+migrations,0009_alter_mensaje_imagen.py,Simple Assignment,8,10,4,A1
+migrations,0009_alter_mensaje_imagen.py,Simple Assignment,12,18,4,A1
+migrations,0009_alter_mensaje_imagen.py,From,3,3,0,A2
+migrations,0009_alter_mensaje_imagen.py,Simple Class ,6,18,0,B1
+migrations,0010_alter_sala_creador.py,Simple List,9,11,19,A1
+migrations,0010_alter_sala_creador.py,Simple List,9,11,19,A1
+migrations,0010_alter_sala_creador.py,Simple List,13,19,17,A1
+migrations,0010_alter_sala_creador.py,Simple Tuple,10,10,8,A1
+migrations,0010_alter_sala_creador.py,Simple Atributte,7,7,16,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,14,14,8,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,17,17,18,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,17,17,46,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,17,17,46,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,17,17,46,A2
+migrations,0010_alter_sala_creador.py,Simple Atributte,17,17,46,A2
+migrations,0010_alter_sala_creador.py,Simple Assignment,9,11,4,A1
+migrations,0010_alter_sala_creador.py,Simple Assignment,13,19,4,A1
+migrations,0010_alter_sala_creador.py,Import,4,4,0,A2
+migrations,0010_alter_sala_creador.py,From,3,3,0,A2
+migrations,0010_alter_sala_creador.py,Simple Class ,7,19,0,B1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple List,9,11,19,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple List,9,11,19,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple List,13,23,17,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Tuple,10,10,8,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,7,7,16,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,14,14,8,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,18,18,8,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,21,21,18,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,21,21,46,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,21,21,46,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,21,21,46,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Atributte,21,21,46,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Assignment,9,11,4,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Assignment,13,23,4,A1
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Import,4,4,0,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,From,3,3,0,A2
+migrations,0011_remove_sesion_nombre_alter_mensaje_creador.py,Simple Class ,7,23,0,B1
+migrations,0012_alter_mensaje_creador.py,Simple List,8,10,19,A1
+migrations,0012_alter_mensaje_creador.py,Simple List,8,10,19,A1
+migrations,0012_alter_mensaje_creador.py,Simple List,12,18,17,A1
+migrations,0012_alter_mensaje_creador.py,Simple Tuple,9,9,8,A1
+migrations,0012_alter_mensaje_creador.py,Simple Atributte,6,6,16,A2
+migrations,0012_alter_mensaje_creador.py,Simple Atributte,13,13,8,A2
+migrations,0012_alter_mensaje_creador.py,Simple Atributte,16,16,18,A2
+migrations,0012_alter_mensaje_creador.py,Simple Assignment,8,10,4,A1
+migrations,0012_alter_mensaje_creador.py,Simple Assignment,12,18,4,A1
+migrations,0012_alter_mensaje_creador.py,From,3,3,0,A2
+migrations,0012_alter_mensaje_creador.py,Simple Class ,6,18,0,B1
+migrations,0013_remove_mensaje_imagen.py,Simple List,8,10,19,A1
+migrations,0013_remove_mensaje_imagen.py,Simple List,8,10,19,A1
+migrations,0013_remove_mensaje_imagen.py,Simple List,12,17,17,A1
+migrations,0013_remove_mensaje_imagen.py,Simple Tuple,9,9,8,A1
+migrations,0013_remove_mensaje_imagen.py,Simple Atributte,6,6,16,A2
+migrations,0013_remove_mensaje_imagen.py,Simple Atributte,13,13,8,A2
+migrations,0013_remove_mensaje_imagen.py,Simple Assignment,8,10,4,A1
+migrations,0013_remove_mensaje_imagen.py,Simple Assignment,12,17,4,A1
+migrations,0013_remove_mensaje_imagen.py,From,3,3,0,A2
+migrations,0013_remove_mensaje_imagen.py,Simple Class ,6,17,0,B1
+DeCharla,models.py,Simple List,57,61,28,A1
+DeCharla,models.py,Simple List,57,61,28,A1
+DeCharla,models.py,Simple List,63,67,26,A1
+DeCharla,models.py,Simple Tuple,58,58,8,A1
+DeCharla,models.py,Simple Tuple,59,59,8,A1
+DeCharla,models.py,Simple Tuple,60,60,8,A1
+DeCharla,models.py,Simple Tuple,64,64,8,A1
+DeCharla,models.py,Simple Tuple,65,65,8,A1
+DeCharla,models.py,Simple Tuple,66,66,8,A1
+DeCharla,models.py,Str,41,41,41,A1
+DeCharla,models.py,Str,9,9,15,A1
+DeCharla,models.py,Str,41,41,15,A1
+DeCharla,models.py,Simple Atributte,5,5,17,A2
+DeCharla,models.py,Simple Atributte,11,11,13,A2
+DeCharla,models.py,Simple Atributte,17,17,11,A2
+DeCharla,models.py,Simple Atributte,26,26,11,A2
+DeCharla,models.py,Simple Atributte,34,34,19,A2
+DeCharla,models.py,Simple Atributte,43,43,14,A2
+DeCharla,models.py,Simple Atributte,54,54,20,A2
+DeCharla,models.py,Simple Atributte,6,6,17,A2
+DeCharla,models.py,Simple Atributte,12,12,18,A2
+DeCharla,models.py,Simple Atributte,15,15,15,A2
+DeCharla,models.py,Simple Atributte,18,18,14,A2
+DeCharla,models.py,Simple Atributte,19,19,13,A2
+DeCharla,models.py,Simple Atributte,20,20,12,A2
+DeCharla,models.py,Simple Atributte,21,21,12,A2
+DeCharla,models.py,Simple Atributte,24,24,15,A2
+DeCharla,models.py,Simple Atributte,27,27,11,A2
+DeCharla,models.py,Simple Atributte,28,28,13,A2
+DeCharla,models.py,Simple Atributte,29,29,14,A2
+DeCharla,models.py,Simple Atributte,35,35,13,A2
+DeCharla,models.py,Simple Atributte,36,36,17,A2
+DeCharla,models.py,Simple Atributte,37,37,11,A2
+DeCharla,models.py,Simple Atributte,38,38,25,A2
+DeCharla,models.py,Simple Atributte,44,44,14,A2
+DeCharla,models.py,Simple Atributte,45,45,16,A2
+DeCharla,models.py,Simple Atributte,46,46,12,A2
+DeCharla,models.py,Simple Atributte,47,47,11,A2
+DeCharla,models.py,Simple Atributte,48,48,13,A2
+DeCharla,models.py,Simple Atributte,51,51,15,A2
+DeCharla,models.py,Simple Atributte,55,55,13,A2
+DeCharla,models.py,Simple Atributte,56,56,13,A2
+DeCharla,models.py,Simple Atributte,62,62,20,A2
+DeCharla,models.py,Simple Atributte,68,68,18,A2
+DeCharla,models.py,Simple Atributte,71,71,15,A2
+DeCharla,models.py,Simple Atributte,9,9,37,A2
+DeCharla,models.py,Simple Atributte,18,18,50,A2
+DeCharla,models.py,Simple Atributte,27,27,45,A2
+DeCharla,models.py,Simple Atributte,28,28,49,A2
+DeCharla,models.py,Simple Atributte,32,32,41,A2
+DeCharla,models.py,Simple Atributte,35,35,49,A2
+DeCharla,models.py,Simple Atributte,37,37,45,A2
+DeCharla,models.py,Simple Atributte,47,47,45,A2
+DeCharla,models.py,Simple Atributte,55,55,52,A2
+DeCharla,models.py,Simple Atributte,32,32,15,A2
+DeCharla,models.py,Simple Atributte,32,32,41,A2
+DeCharla,models.py,Simple Atributte,41,41,45,A2
+DeCharla,models.py,Simple Atributte,9,9,19,A2
+DeCharla,models.py,Simple Atributte,32,32,15,A2
+DeCharla,models.py,Simple Atributte,41,41,19,A2
+DeCharla,models.py,Simple Assignment,6,6,4,A1
+DeCharla,models.py,Simple Assignment,12,12,4,A1
+DeCharla,models.py,Simple Assignment,18,18,4,A1
+DeCharla,models.py,Simple Assignment,19,19,4,A1
+DeCharla,models.py,Simple Assignment,20,20,4,A1
+DeCharla,models.py,Simple Assignment,21,21,4,A1
+DeCharla,models.py,Simple Assignment,27,27,4,A1
+DeCharla,models.py,Simple Assignment,28,28,4,A1
+DeCharla,models.py,Simple Assignment,29,29,4,A1
+DeCharla,models.py,Simple Assignment,35,35,4,A1
+DeCharla,models.py,Simple Assignment,36,36,4,A1
+DeCharla,models.py,Simple Assignment,37,37,4,A1
+DeCharla,models.py,Simple Assignment,38,38,4,A1
+DeCharla,models.py,Simple Assignment,44,44,4,A1
+DeCharla,models.py,Simple Assignment,45,45,4,A1
+DeCharla,models.py,Simple Assignment,46,46,4,A1
+DeCharla,models.py,Simple Assignment,47,47,4,A1
+DeCharla,models.py,Simple Assignment,48,48,4,A1
+DeCharla,models.py,Simple Assignment,55,55,4,A1
+DeCharla,models.py,Simple Assignment,56,56,4,A1
+DeCharla,models.py,Simple Assignment,57,61,4,A1
+DeCharla,models.py,Simple Assignment,62,62,4,A1
+DeCharla,models.py,Simple Assignment,63,67,4,A1
+DeCharla,models.py,Simple Assignment,68,68,4,A1
+DeCharla,models.py,From,1,1,0,A2
+DeCharla,models.py,From with 'as' extension ,2,2,0,B1
+DeCharla,models.py,Function with Simple argument,8,9,4,A1
+DeCharla,models.py,Function with Simple argument,14,15,4,A1
+DeCharla,models.py,Function with Simple argument,23,24,4,A1
+DeCharla,models.py,Function with Simple argument,31,32,4,A1
+DeCharla,models.py,Function with Simple argument,40,41,4,A1
+DeCharla,models.py,Function with Simple argument,50,51,4,A1
+DeCharla,models.py,Function with Simple argument,70,71,4,A1
+DeCharla,models.py,Return,9,9,8,A1
+DeCharla,models.py,Return,15,15,8,A1
+DeCharla,models.py,Return,24,24,8,A1
+DeCharla,models.py,Return,32,32,8,A1
+DeCharla,models.py,Return,41,41,8,A1
+DeCharla,models.py,Return,51,51,8,A1
+DeCharla,models.py,Return,71,71,8,A1
+DeCharla,models.py,Simple Class ,5,9,0,B1
+DeCharla,models.py,Simple Class ,11,15,0,B1
+DeCharla,models.py,Simple Class ,17,24,0,B1
+DeCharla,models.py,Simple Class ,26,32,0,B1
+DeCharla,models.py,Simple Class ,34,41,0,B1
+DeCharla,models.py,Simple Class ,43,51,0,B1
+DeCharla,models.py,Simple Class ,54,71,0,B1
+DeCharla,urls.py,Simple List,6,19,14,A1
+DeCharla,urls.py,Simple List,6,19,14,A1
+DeCharla,urls.py,Simple Atributte,19,19,11,A2
+DeCharla,urls.py,Simple Atributte,7,7,13,A2
+DeCharla,urls.py,Simple Atributte,8,8,26,A2
+DeCharla,urls.py,Simple Atributte,9,9,18,A2
+DeCharla,urls.py,Simple Atributte,10,10,19,A2
+DeCharla,urls.py,Simple Atributte,11,11,17,A2
+DeCharla,urls.py,Simple Atributte,12,12,23,A2
+DeCharla,urls.py,Simple Atributte,13,13,19,A2
+DeCharla,urls.py,Simple Atributte,14,14,22,A2
+DeCharla,urls.py,Simple Atributte,15,15,24,A2
+DeCharla,urls.py,Simple Atributte,16,16,33,A2
+DeCharla,urls.py,Simple Atributte,17,17,37,A2
+DeCharla,urls.py,Simple Atributte,19,19,45,A2
+DeCharla,urls.py,Assigment with sum (total = total + 1),6,19,0,A1
+DeCharla,urls.py,From,1,1,0,A2
+DeCharla,urls.py,Relative From,2,2,0,B1
+DeCharla,urls.py,From,3,3,0,A2
+DeCharla,urls.py,From,4,4,0,A2
+DeCharla,views.py,Simple List,100,100,19,A1
+DeCharla,views.py,Simple List,100,100,19,A1
+DeCharla,views.py,Simple List,177,177,25,A1
+DeCharla,views.py,Simple Tuple,143,143,4,A1
+DeCharla,views.py,Simple Tuple,196,196,4,A1
+DeCharla,views.py,Simple Tuple,219,219,11,A1
+DeCharla,views.py,Simple Tuple,224,224,4,A1
+DeCharla,views.py,Simple Tuple,238,238,11,A1
+DeCharla,views.py,Simple Tuple,64,64,8,A1
+DeCharla,views.py,Simple Tuple,280,280,8,A1
+DeCharla,views.py,Simple Tuple,290,290,8,A1
+DeCharla,views.py,Simple Tuple,386,386,8,A1
+DeCharla,views.py,Simple Tuple,194,194,34,A1
+DeCharla,views.py,Simple Dictionary,146,152,15,A2
+DeCharla,views.py,Simple Dictionary,200,209,15,A2
+DeCharla,views.py,Simple Dictionary,66,73,19,A2
+DeCharla,views.py,Simple Dictionary,102,107,23,A2
+DeCharla,views.py,Simple Dictionary,292,302,19,A2
+DeCharla,views.py,Simple Dictionary,389,396,19,A2
+DeCharla,views.py,Simple Dictionary,381,385,45,A2
+DeCharla,views.py,Int,375,375,46,A1
+DeCharla,views.py,Str,383,383,33,A1
+DeCharla,views.py,Simple Atributte,164,164,0,A2
+DeCharla,views.py,Simple Atributte,231,231,4,A2
+DeCharla,views.py,Simple Atributte,255,255,15,A2
+DeCharla,views.py,Simple Atributte,23,23,4,A2
+DeCharla,views.py,Simple Atributte,28,28,7,A2
+DeCharla,views.py,Simple Atributte,55,55,24,A2
+DeCharla,views.py,Simple Atributte,76,76,11,A2
+DeCharla,views.py,Simple Atributte,83,83,4,A2
+DeCharla,views.py,Simple Atributte,98,98,15,A2
+DeCharla,views.py,Simple Atributte,114,114,25,A2
+DeCharla,views.py,Simple Atributte,115,115,7,A2
+DeCharla,views.py,Simple Atributte,137,137,24,A2
+DeCharla,views.py,Simple Atributte,142,142,25,A2
+DeCharla,views.py,Simple Atributte,145,145,15,A2
+DeCharla,views.py,Simple Atributte,169,169,24,A2
+DeCharla,views.py,Simple Atributte,175,175,16,A2
+DeCharla,views.py,Simple Atributte,176,176,17,A2
+DeCharla,views.py,Simple Atributte,197,197,25,A2
+DeCharla,views.py,Simple Atributte,198,198,12,A2
+DeCharla,views.py,Simple Atributte,199,199,15,A2
+DeCharla,views.py,Simple Atributte,214,214,25,A2
+DeCharla,views.py,Simple Atributte,215,215,24,A2
+DeCharla,views.py,Simple Atributte,216,216,31,A2
+DeCharla,views.py,Simple Atributte,217,217,30,A2
+DeCharla,views.py,Simple Atributte,218,218,26,A2
+DeCharla,views.py,Simple Atributte,222,222,20,A2
+DeCharla,views.py,Simple Atributte,224,224,29,A2
+DeCharla,views.py,Simple Atributte,231,231,31,A2
+DeCharla,views.py,Simple Atributte,232,232,4,A2
+DeCharla,views.py,Simple Atributte,235,235,17,A2
+DeCharla,views.py,Simple Atributte,236,236,4,A2
+DeCharla,views.py,Simple Atributte,242,242,23,A2
+DeCharla,views.py,Simple Atributte,243,243,7,A2
+DeCharla,views.py,Simple Atributte,245,245,8,A2
+DeCharla,views.py,Simple Atributte,246,246,8,A2
+DeCharla,views.py,Simple Atributte,246,246,26,A2
+DeCharla,views.py,Simple Atributte,254,254,15,A2
+DeCharla,views.py,Simple Atributte,275,275,24,A2
+DeCharla,views.py,Simple Atributte,330,330,24,A2
+DeCharla,views.py,Simple Atributte,56,56,22,A2
+DeCharla,views.py,Simple Atributte,57,57,24,A2
+DeCharla,views.py,Simple Atributte,62,62,8,A2
+DeCharla,views.py,Simple Atributte,65,65,19,A2
+DeCharla,views.py,Simple Atributte,89,89,7,A2
+DeCharla,views.py,Simple Atributte,89,89,50,A2
+DeCharla,views.py,Simple Atributte,90,90,19,A2
+DeCharla,views.py,Simple Atributte,91,91,8,A2
+DeCharla,views.py,Simple Atributte,92,92,8,A2
+DeCharla,views.py,Simple Atributte,92,92,24,A2
+DeCharla,views.py,Simple Atributte,98,98,15,A2
+DeCharla,views.py,Simple Atributte,103,103,22,A2
+DeCharla,views.py,Simple Atributte,104,104,20,A2
+DeCharla,views.py,Simple Atributte,105,105,21,A2
+DeCharla,views.py,Simple Atributte,108,108,8,A2
+DeCharla,views.py,Simple Atributte,116,116,11,A2
+DeCharla,views.py,Simple Atributte,138,138,22,A2
+DeCharla,views.py,Simple Atributte,139,139,24,A2
+DeCharla,views.py,Simple Atributte,153,153,24,A2
+DeCharla,views.py,Simple Atributte,159,159,16,A2
+DeCharla,views.py,Simple Atributte,170,170,22,A2
+DeCharla,views.py,Simple Atributte,171,171,24,A2
+DeCharla,views.py,Simple Atributte,175,175,16,A2
+DeCharla,views.py,Simple Atributte,176,176,17,A2
+DeCharla,views.py,Simple Atributte,180,180,23,A2
+DeCharla,views.py,Simple Atributte,191,191,15,A2
+DeCharla,views.py,Simple Atributte,194,194,8,A2
+DeCharla,views.py,Simple Atributte,198,198,12,A2
+DeCharla,views.py,Simple Atributte,210,210,24,A2
+DeCharla,views.py,Simple Atributte,214,214,25,A2
+DeCharla,views.py,Simple Atributte,215,215,24,A2
+DeCharla,views.py,Simple Atributte,218,218,26,A2
+DeCharla,views.py,Simple Atributte,224,224,29,A2
+DeCharla,views.py,Simple Atributte,227,227,29,A2
+DeCharla,views.py,Simple Atributte,229,229,29,A2
+DeCharla,views.py,Simple Atributte,235,235,40,A2
+DeCharla,views.py,Simple Atributte,236,236,36,A2
+DeCharla,views.py,Simple Atributte,244,244,18,A2
+DeCharla,views.py,Simple Atributte,247,247,8,A2
+DeCharla,views.py,Simple Atributte,248,248,24,A2
+DeCharla,views.py,Simple Atributte,249,249,8,A2
+DeCharla,views.py,Simple Atributte,254,254,15,A2
+DeCharla,views.py,Simple Atributte,257,257,14,A2
+DeCharla,views.py,Simple Atributte,258,258,19,A2
+DeCharla,views.py,Simple Atributte,276,276,22,A2
+DeCharla,views.py,Simple Atributte,277,277,17,A2
+DeCharla,views.py,Simple Atributte,278,278,24,A2
+DeCharla,views.py,Simple Atributte,281,281,29,A2
+DeCharla,views.py,Simple Atributte,284,284,11,A2
+DeCharla,views.py,Simple Atributte,287,287,11,A2
+DeCharla,views.py,Simple Atributte,291,291,19,A2
+DeCharla,views.py,Simple Atributte,305,305,11,A2
+DeCharla,views.py,Simple Atributte,331,331,22,A2
+DeCharla,views.py,Simple Atributte,332,332,22,A2
+DeCharla,views.py,Simple Atributte,339,339,12,A2
+DeCharla,views.py,Simple Atributte,341,341,12,A2
+DeCharla,views.py,Simple Atributte,364,364,7,A2
+DeCharla,views.py,Simple Atributte,364,364,34,A2
+DeCharla,views.py,Simple Atributte,365,365,28,A2
+DeCharla,views.py,Simple Atributte,371,371,11,A2
+DeCharla,views.py,Simple Atributte,388,388,19,A2
+DeCharla,views.py,Simple Atributte,29,29,32,A2
+DeCharla,views.py,Simple Atributte,30,30,25,A2
+DeCharla,views.py,Simple Atributte,40,40,16,A2
+DeCharla,views.py,Simple Atributte,44,44,19,A2
+DeCharla,views.py,Simple Atributte,57,57,24,A2
+DeCharla,views.py,Simple Atributte,62,62,8,A2
+DeCharla,views.py,Simple Atributte,74,74,28,A2
+DeCharla,views.py,Simple Atributte,94,94,20,A2
+DeCharla,views.py,Simple Atributte,106,106,20,A2
+DeCharla,views.py,Simple Atributte,117,117,26,A2
+DeCharla,views.py,Simple Atributte,118,118,15,A2
+DeCharla,views.py,Simple Atributte,121,121,27,A2
+DeCharla,views.py,Simple Atributte,122,122,26,A2
+DeCharla,views.py,Simple Atributte,123,123,21,A2
+DeCharla,views.py,Simple Atributte,125,125,12,A2
+DeCharla,views.py,Simple Atributte,126,126,23,A2
+DeCharla,views.py,Simple Atributte,139,139,24,A2
+DeCharla,views.py,Simple Atributte,159,159,16,A2
+DeCharla,views.py,Simple Atributte,161,161,12,A2
+DeCharla,views.py,Simple Atributte,162,162,12,A2
+DeCharla,views.py,Simple Atributte,171,171,24,A2
+DeCharla,views.py,Simple Atributte,182,182,28,A2
+DeCharla,views.py,Simple Atributte,222,222,20,A2
+DeCharla,views.py,Simple Atributte,248,248,24,A2
+DeCharla,views.py,Simple Atributte,261,261,23,A2
+DeCharla,views.py,Simple Atributte,263,263,19,A2
+DeCharla,views.py,Simple Atributte,265,265,21,A2
+DeCharla,views.py,Simple Atributte,267,267,12,A2
+DeCharla,views.py,Simple Atributte,277,277,17,A2
+DeCharla,views.py,Simple Atributte,278,278,24,A2
+DeCharla,views.py,Simple Atributte,303,303,28,A2
+DeCharla,views.py,Simple Atributte,306,306,35,A2
+DeCharla,views.py,Simple Atributte,332,332,22,A2
+DeCharla,views.py,Simple Atributte,335,335,19,A2
+DeCharla,views.py,Simple Atributte,340,340,12,A2
+DeCharla,views.py,Simple Atributte,342,342,12,A2
+DeCharla,views.py,Simple Atributte,350,350,12,A2
+DeCharla,views.py,Simple Atributte,352,352,12,A2
+DeCharla,views.py,Simple Atributte,366,366,26,A2
+DeCharla,views.py,Simple Atributte,367,367,28,A2
+DeCharla,views.py,Simple Atributte,372,372,37,A2
+DeCharla,views.py,Simple Atributte,373,373,15,A2
+DeCharla,views.py,Simple Atributte,374,374,16,A2
+DeCharla,views.py,Simple Atributte,375,375,16,A2
+DeCharla,views.py,Simple Atributte,376,376,16,A2
+DeCharla,views.py,Simple Atributte,397,397,28,A2
+DeCharla,views.py,Simple Atributte,30,30,25,A2
+DeCharla,views.py,Simple Atributte,33,33,16,A2
+DeCharla,views.py,Simple Atributte,34,34,29,A2
+DeCharla,views.py,Simple Atributte,36,36,16,A2
+DeCharla,views.py,Simple Atributte,38,38,16,A2
+DeCharla,views.py,Simple Atributte,41,41,16,A2
+DeCharla,views.py,Simple Atributte,94,94,20,A2
+DeCharla,views.py,Simple Atributte,106,106,20,A2
+DeCharla,views.py,Simple Atributte,123,123,21,A2
+DeCharla,views.py,Simple Atributte,126,126,23,A2
+DeCharla,views.py,Simple Atributte,162,162,12,A2
+DeCharla,views.py,Simple Atributte,180,180,23,A2
+DeCharla,views.py,Simple Atributte,184,184,37,A2
+DeCharla,views.py,Simple Atributte,186,186,20,A2
+DeCharla,views.py,Simple Atributte,222,222,20,A2
+DeCharla,views.py,Simple Atributte,229,229,29,A2
+DeCharla,views.py,Simple Atributte,236,236,36,A2
+DeCharla,views.py,Simple Atributte,262,262,24,A2
+DeCharla,views.py,Simple Atributte,263,263,19,A2
+DeCharla,views.py,Simple Atributte,264,264,26,A2
+DeCharla,views.py,Simple Atributte,265,265,21,A2
+DeCharla,views.py,Simple Atributte,306,306,35,A2
+DeCharla,views.py,Simple Atributte,307,307,40,A2
+DeCharla,views.py,Simple Atributte,318,318,20,A2
+DeCharla,views.py,Simple Atributte,322,322,23,A2
+DeCharla,views.py,Simple Atributte,335,335,19,A2
+DeCharla,views.py,Simple Atributte,346,346,19,A2
+DeCharla,views.py,Simple Atributte,351,351,12,A2
+DeCharla,views.py,Simple Atributte,353,353,12,A2
+DeCharla,views.py,Simple Atributte,367,367,28,A2
+DeCharla,views.py,Simple Atributte,374,374,39,A2
+DeCharla,views.py,Simple Atributte,376,376,44,A2
+DeCharla,views.py,Simple Atributte,377,377,16,A2
+DeCharla,views.py,Simple Atributte,32,32,29,A2
+DeCharla,views.py,Simple Atributte,33,33,16,A2
+DeCharla,views.py,Simple Atributte,118,118,15,A2
+DeCharla,views.py,Simple Atributte,128,128,23,A2
+DeCharla,views.py,Simple Atributte,130,130,20,A2
+DeCharla,views.py,Simple Atributte,180,180,23,A2
+DeCharla,views.py,Simple Atributte,182,182,28,A2
+DeCharla,views.py,Simple Atributte,187,187,20,A2
+DeCharla,views.py,Simple Atributte,229,229,60,A2
+DeCharla,views.py,Simple Atributte,263,263,19,A2
+DeCharla,views.py,Simple Atributte,265,265,21,A2
+DeCharla,views.py,Simple Atributte,310,310,20,A2
+DeCharla,views.py,Simple Atributte,312,312,33,A2
+DeCharla,views.py,Simple Atributte,314,314,20,A2
+DeCharla,views.py,Simple Atributte,316,316,20,A2
+DeCharla,views.py,Simple Atributte,319,319,20,A2
+DeCharla,views.py,Simple Atributte,346,346,19,A2
+DeCharla,views.py,Simple Atributte,375,375,50,A2
+DeCharla,views.py,Simple Atributte,382,382,26,A2
+DeCharla,views.py,Simple Atributte,384,384,31,A2
+DeCharla,views.py,Simple Atributte,118,118,15,A2
+DeCharla,views.py,Simple Atributte,128,128,23,A2
+DeCharla,views.py,Simple Atributte,182,182,28,A2
+DeCharla,views.py,Simple Atributte,184,184,37,A2
+DeCharla,views.py,Simple Atributte,310,310,20,A2
+DeCharla,views.py,Simple Atributte,311,311,33,A2
+DeCharla,views.py,Simple Atributte,383,383,37,A2
+DeCharla,views.py,Simple Atributte,184,184,37,A2
+DeCharla,views.py,Simple Atributte,184,184,81,A2
+DeCharla,views.py,Simple Assignment,21,22,4,A1
+DeCharla,views.py,Simple Assignment,82,82,4,A1
+DeCharla,views.py,Simple Assignment,97,97,4,A1
+DeCharla,views.py,Simple Assignment,98,98,4,A1
+DeCharla,views.py,Simple Assignment,100,100,4,A1
+DeCharla,views.py,Simple Assignment,114,114,4,A1
+DeCharla,views.py,Simple Assignment,142,142,4,A1
+DeCharla,views.py,Simple Assignment,143,143,4,A1
+DeCharla,views.py,Simple Assignment,145,145,4,A1
+DeCharla,views.py,Simple Assignment,146,152,4,A1
+DeCharla,views.py,Simple Assignment,175,175,4,A1
+DeCharla,views.py,Simple Assignment,176,176,4,A1
+DeCharla,views.py,Simple Assignment,177,177,4,A1
+DeCharla,views.py,Simple Assignment,196,196,4,A1
+DeCharla,views.py,Simple Assignment,197,197,4,A1
+DeCharla,views.py,Simple Assignment,198,198,4,A1
+DeCharla,views.py,Simple Assignment,199,199,4,A1
+DeCharla,views.py,Simple Assignment,200,209,4,A1
+DeCharla,views.py,Simple Assignment,214,214,4,A1
+DeCharla,views.py,Simple Assignment,215,215,4,A1
+DeCharla,views.py,Simple Assignment,216,216,4,A1
+DeCharla,views.py,Simple Assignment,217,217,4,A1
+DeCharla,views.py,Simple Assignment,218,218,4,A1
+DeCharla,views.py,Simple Assignment,222,222,4,A1
+DeCharla,views.py,Simple Assignment,223,223,4,A1
+DeCharla,views.py,Simple Assignment,224,224,4,A1
+DeCharla,views.py,Simple Assignment,231,231,4,A1
+DeCharla,views.py,Simple Assignment,234,234,4,A1
+DeCharla,views.py,Simple Assignment,235,235,4,A1
+DeCharla,views.py,Simple Assignment,242,242,4,A1
+DeCharla,views.py,Simple Assignment,254,254,4,A1
+DeCharla,views.py,Simple Assignment,255,255,4,A1
+DeCharla,views.py,Simple Assignment,56,56,8,A1
+DeCharla,views.py,Simple Assignment,57,57,8,A1
+DeCharla,views.py,Simple Assignment,63,63,8,A1
+DeCharla,views.py,Simple Assignment,64,64,8,A1
+DeCharla,views.py,Simple Assignment,65,65,8,A1
+DeCharla,views.py,Simple Assignment,66,73,8,A1
+DeCharla,views.py,Simple Assignment,90,90,8,A1
+DeCharla,views.py,Simple Assignment,92,92,8,A1
+DeCharla,views.py,Simple Assignment,102,107,8,A1
+DeCharla,views.py,Simple Assignment,138,138,8,A1
+DeCharla,views.py,Simple Assignment,139,139,8,A1
+DeCharla,views.py,Simple Assignment,159,159,8,A1
+DeCharla,views.py,Simple Assignment,170,170,8,A1
+DeCharla,views.py,Simple Assignment,171,171,8,A1
+DeCharla,views.py,Simple Assignment,180,180,8,A1
+DeCharla,views.py,Simple Assignment,227,227,8,A1
+DeCharla,views.py,Simple Assignment,229,229,8,A1
+DeCharla,views.py,Simple Assignment,244,244,8,A1
+DeCharla,views.py,Simple Assignment,245,245,8,A1
+DeCharla,views.py,Simple Assignment,246,246,8,A1
+DeCharla,views.py,Simple Assignment,248,248,8,A1
+DeCharla,views.py,Simple Assignment,257,257,8,A1
+DeCharla,views.py,Simple Assignment,258,258,8,A1
+DeCharla,views.py,Simple Assignment,276,276,8,A1
+DeCharla,views.py,Simple Assignment,277,277,8,A1
+DeCharla,views.py,Simple Assignment,278,278,8,A1
+DeCharla,views.py,Simple Assignment,279,279,8,A1
+DeCharla,views.py,Simple Assignment,280,280,8,A1
+DeCharla,views.py,Simple Assignment,281,281,8,A1
+DeCharla,views.py,Simple Assignment,282,282,8,A1
+DeCharla,views.py,Simple Assignment,290,290,8,A1
+DeCharla,views.py,Simple Assignment,291,291,8,A1
+DeCharla,views.py,Simple Assignment,292,302,8,A1
+DeCharla,views.py,Simple Assignment,331,331,8,A1
+DeCharla,views.py,Simple Assignment,332,332,8,A1
+DeCharla,views.py,Simple Assignment,386,386,8,A1
+DeCharla,views.py,Simple Assignment,387,387,8,A1
+DeCharla,views.py,Simple Assignment,388,388,8,A1
+DeCharla,views.py,Simple Assignment,389,396,8,A1
+DeCharla,views.py,Simple Assignment,30,30,12,A1
+DeCharla,views.py,Simple Assignment,117,117,12,A1
+DeCharla,views.py,Simple Assignment,121,121,12,A1
+DeCharla,views.py,Simple Assignment,122,122,12,A1
+DeCharla,views.py,Simple Assignment,123,123,12,A1
+DeCharla,views.py,Simple Assignment,124,124,12,A1
+DeCharla,views.py,Simple Assignment,126,126,12,A1
+DeCharla,views.py,Simple Assignment,182,182,12,A1
+DeCharla,views.py,Simple Assignment,261,261,12,A1
+DeCharla,views.py,Simple Assignment,262,262,12,A1
+DeCharla,views.py,Simple Assignment,263,263,12,A1
+DeCharla,views.py,Simple Assignment,264,264,12,A1
+DeCharla,views.py,Simple Assignment,265,265,12,A1
+DeCharla,views.py,Simple Assignment,266,266,12,A1
+DeCharla,views.py,Simple Assignment,306,306,12,A1
+DeCharla,views.py,Simple Assignment,335,335,12,A1
+DeCharla,views.py,Simple Assignment,336,336,12,A1
+DeCharla,views.py,Simple Assignment,337,337,12,A1
+DeCharla,views.py,Simple Assignment,338,338,12,A1
+DeCharla,views.py,Simple Assignment,339,339,12,A1
+DeCharla,views.py,Simple Assignment,366,366,12,A1
+DeCharla,views.py,Simple Assignment,367,367,12,A1
+DeCharla,views.py,Simple Assignment,372,372,12,A1
+DeCharla,views.py,Simple Assignment,381,385,12,A1
+DeCharla,views.py,Assigment with sum (total = total + 1),32,32,16,A1
+DeCharla,views.py,Simple Assignment,34,34,16,A1
+DeCharla,views.py,Simple Assignment,35,35,16,A1
+DeCharla,views.py,Simple Assignment,37,37,16,A1
+DeCharla,views.py,Simple Assignment,39,39,16,A1
+DeCharla,views.py,Simple Assignment,40,40,16,A1
+DeCharla,views.py,Simple Assignment,184,184,16,A1
+DeCharla,views.py,Simple Assignment,189,189,16,A1
+DeCharla,views.py,Simple Assignment,192,192,12,A1
+DeCharla,views.py,Simple Assignment,308,308,16,A1
+DeCharla,views.py,Simple Assignment,346,346,12,A1
+DeCharla,views.py,Simple Assignment,347,347,12,A1
+DeCharla,views.py,Simple Assignment,348,348,12,A1
+DeCharla,views.py,Simple Assignment,349,349,12,A1
+DeCharla,views.py,Simple Assignment,350,350,12,A1
+DeCharla,views.py,Simple Assignment,374,374,16,A1
+DeCharla,views.py,Simple Assignment,375,375,16,A1
+DeCharla,views.py,Simple Assignment,376,376,16,A1
+DeCharla,views.py,Simple Assignment,129,129,20,A1
+DeCharla,views.py,Simple Assignment,186,186,20,A1
+DeCharla,views.py,Assigment with sum (total = total + 1),311,311,20,A1
+DeCharla,views.py,Simple Assignment,312,312,20,A1
+DeCharla,views.py,Simple Assignment,313,313,20,A1
+DeCharla,views.py,Simple Assignment,315,315,20,A1
+DeCharla,views.py,Simple Assignment,317,317,20,A1
+DeCharla,views.py,Simple Assignment,318,318,20,A1
+DeCharla,views.py,Simplified incremental Assignment with increase amount,341,341,12,A2
+DeCharla,views.py,Simplified incremental Assignment with decrease subtraction,352,352,12,A2
+DeCharla,views.py,'raise' exception,77,77,8,B1
+DeCharla,views.py,Import,1,1,0,A2
+DeCharla,views.py,From,2,2,0,A2
+DeCharla,views.py,From,3,3,0,A2
+DeCharla,views.py,From,4,4,0,A2
+DeCharla,views.py,From,5,5,0,A2
+DeCharla,views.py,From,6,6,0,A2
+DeCharla,views.py,From,7,7,0,A2
+DeCharla,views.py,From,8,8,0,A2
+DeCharla,views.py,From,9,9,0,A2
+DeCharla,views.py,From,10,10,0,A2
+DeCharla,views.py,From,11,11,0,A2
+DeCharla,views.py,Relative From,12,12,0,B1
+DeCharla,views.py,From,13,13,0,A2
+DeCharla,views.py,From,14,14,0,A2
+DeCharla,views.py,Relative From,15,15,0,B1
+DeCharla,views.py,Simple If statements,28,50,4,A1
+DeCharla,views.py,Simple If statements,55,59,4,A1
+DeCharla,views.py,Simple If statements,89,92,4,A1
+DeCharla,views.py,Simple If statements,115,134,4,A1
+DeCharla,views.py,Simple If statements,137,141,4,A1
+DeCharla,views.py,Simple If statements,158,162,4,A1
+DeCharla,views.py,Simple If statements,169,173,4,A1
+DeCharla,views.py,Simple If statements,226,229,4,A1
+DeCharla,views.py,Simple If statements,243,251,4,A1
+DeCharla,views.py,Simple If statements,275,326,4,A1
+DeCharla,views.py,Simple If statements,330,360,4,A1
+DeCharla,views.py,Simple If statements,364,397,4,A1
+DeCharla,views.py,Simple If statements,29,48,8,A1
+DeCharla,views.py,Simple If statements,116,134,8,A1
+DeCharla,views.py,Simple If statements,284,285,8,A1
+DeCharla,views.py,Simple If statements,287,288,8,A1
+DeCharla,views.py,Simple If statements,305,326,8,A1
+DeCharla,views.py,Simple If statements,334,357,8,A1
+DeCharla,views.py,Simple If statements,365,369,8,A1
+DeCharla,views.py,Simple If statements,371,385,8,A1
+DeCharla,views.py,Simple If statements,118,119,12,A1
+DeCharla,views.py,Simple If statements,183,189,12,A1
+DeCharla,views.py,Simple If statements,307,324,12,A1
+DeCharla,views.py,Simple If statements,345,357,8,A1
+DeCharla,views.py,Simple If statements,373,378,12,A1
+DeCharla,views.py,Simple If statements,128,130,16,A1
+DeCharla,views.py,Simple If statements,185,187,16,A1
+DeCharla,views.py,Simple For Loop,101,108,4,A1
+DeCharla,views.py,Simple For Loop,179,194,4,A1
+DeCharla,views.py,Simple For Loop,160,162,8,A1
+DeCharla,views.py,Simple For Loop,260,267,8,A1
+DeCharla,views.py,Simple For Loop,127,130,12,A1
+DeCharla,views.py,Exception --> try/except,61,77,4,B1
+DeCharla,views.py,Exception --> try/except,256,271,4,B1
+DeCharla,views.py,Exception --> try/except,181,192,8,B1
+DeCharla,views.py,Exception --> try/except,31,45,12,B1
+DeCharla,views.py,Exception --> try/except,309,324,16,B1
+DeCharla,views.py,Function with Simple argument,20,24,0,A1
+DeCharla,views.py,Function with Simple argument,27,50,0,A1
+DeCharla,views.py,Function with Simple argument,54,77,0,A1
+DeCharla,views.py,Function with Simple argument,79,85,0,A1
+DeCharla,views.py,Function with Simple argument,88,94,0,A1
+DeCharla,views.py,Function with Simple argument,96,110,0,A1
+DeCharla,views.py,Function with Simple argument,113,134,0,A1
+DeCharla,views.py,Function with Simple argument,136,153,0,A1
+DeCharla,views.py,Function with Simple argument with ** argument,157,162,0,B1
+DeCharla,views.py,Function with Simple argument,168,210,0,A1
+DeCharla,views.py,Function,213,219,0,A1
+DeCharla,views.py,Function with Simple argument,221,238,0,A1
+DeCharla,views.py,Function with Simple argument,241,251,0,A1
+DeCharla,views.py,Function with Simple argument,253,271,0,A1
+DeCharla,views.py,Function with Simple argument,274,326,0,A1
+DeCharla,views.py,Function with Simple argument,329,360,0,A1
+DeCharla,views.py,Function with Simple argument,363,397,0,A1
+DeCharla,views.py,Return,24,24,4,A1
+DeCharla,views.py,Return,85,85,4,A1
+DeCharla,views.py,Return,94,94,4,A1
+DeCharla,views.py,Return,110,110,4,A1
+DeCharla,views.py,Return,153,153,4,A1
+DeCharla,views.py,Return,210,210,4,A1
+DeCharla,views.py,Return,219,219,4,A1
+DeCharla,views.py,Return,238,238,4,A1
+DeCharla,views.py,Return,50,50,8,A1
+DeCharla,views.py,Return,59,59,8,A1
+DeCharla,views.py,Return,74,74,8,A1
+DeCharla,views.py,Return,141,141,8,A1
+DeCharla,views.py,Return,173,173,8,A1
+DeCharla,views.py,Return,251,251,8,A1
+DeCharla,views.py,Return,268,268,8,A1
+DeCharla,views.py,Return,303,303,8,A1
+DeCharla,views.py,Return,360,360,8,A1
+DeCharla,views.py,Return,397,397,8,A1
+DeCharla,views.py,Return,48,48,12,A1
+DeCharla,views.py,Return,132,132,12,A1
+DeCharla,views.py,Return,134,134,12,A1
+DeCharla,views.py,Return,271,271,8,A1
+DeCharla,views.py,Return,326,326,12,A1
+DeCharla,views.py,Return,343,343,12,A1
+DeCharla,views.py,Return,369,369,12,A1
+DeCharla,views.py,Return,42,42,16,A1
+DeCharla,views.py,Return,119,119,16,A1
+DeCharla,views.py,Return,354,354,12,A1
+DeCharla,views.py,Return,357,357,12,A1
+DeCharla,views.py,Return,378,378,16,A1
+DeCharla,views.py,Return,45,45,16,A1
+DeCharla,views.py,Return,321,321,20,A1
+DeCharla,views.py,Return,323,324,20,A1
+final,asgi.py,Simple Atributte,14,14,0,A2
+final,asgi.py,Simple Atributte,14,14,0,A2
+final,asgi.py,Simple Atributte,14,14,0,A2
+final,asgi.py,Simple Assignment,16,16,0,A1
+final,asgi.py,Import,10,10,0,A2
+final,asgi.py,From,12,12,0,A2
+final,settings.py,Simple List,31,31,16,A1
+final,settings.py,Simple List,31,31,16,A1
+final,settings.py,Simple List,36,46,17,A1
+final,settings.py,Simple List,48,57,13,A1
+final,settings.py,1 Dictionary List,61,76,12,B1
+final,settings.py,4 Dictionary List,96,109,27,B1
+final,settings.py,Simple List,118,121,12,A1
+final,settings.py,Simple List,129,131,15,A1
+final,settings.py,Simple List,137,139,19,A1
+final,settings.py,Simple List,64,64,16,A1
+final,settings.py,Simple List,67,73,34,A1
+final,settings.py,Simple Tuple,119,119,4,A1
+final,settings.py,Simple Tuple,120,120,4,A1
+final,settings.py,1 Nested Dictionary,84,89,12,B1
+final,settings.py,1 List in 1Dictionary of Dictionary,62,75,4,B2
+final,settings.py,Simple Dictionary,85,88,15,A2
+final,settings.py,Simple Dictionary,97,99,4,A2
+final,settings.py,Simple Dictionary,100,102,4,A2
+final,settings.py,Simple Dictionary,103,105,4,A2
+final,settings.py,Simple Dictionary,106,108,4,A2
+final,settings.py,1 List Dictionary,66,74,19,B1
+final,settings.py,Simple Atributte,19,19,11,A2
+final,settings.py,Simple Atributte,19,19,11,A2
+final,settings.py,Simple Atributte,142,142,13,A2
+final,settings.py,Simple Atributte,130,130,4,A2
+final,settings.py,Simple Atributte,138,138,4,A2
+final,settings.py,Simple Atributte,142,142,13,A2
+final,settings.py,Simple Atributte,19,19,11,A2
+final,settings.py,Simple Atributte,130,130,4,A2
+final,settings.py,Simple Atributte,138,138,4,A2
+final,settings.py,Simple Atributte,64,64,17,A2
+final,settings.py,Simple Atributte,64,64,17,A2
+final,settings.py,Simple Assignment,19,19,0,A1
+final,settings.py,Simple Assignment,26,26,0,A1
+final,settings.py,Simple Assignment,29,29,0,A1
+final,settings.py,Simple Assignment,31,31,0,A1
+final,settings.py,Simple Assignment,36,46,0,A1
+final,settings.py,Simple Assignment,48,57,0,A1
+final,settings.py,Simple Assignment,59,59,0,A1
+final,settings.py,Simple Assignment,61,76,0,A1
+final,settings.py,Simple Assignment,78,78,0,A1
+final,settings.py,Simple Assignment,84,89,0,A1
+final,settings.py,Simple Assignment,91,91,0,A1
+final,settings.py,Simple Assignment,96,109,0,A1
+final,settings.py,Simple Assignment,115,115,0,A1
+final,settings.py,Simple Assignment,118,121,0,A1
+final,settings.py,Simple Assignment,123,123,0,A1
+final,settings.py,Simple Assignment,125,125,0,A1
+final,settings.py,Simple Assignment,126,126,0,A1
+final,settings.py,Simple Assignment,127,127,0,A1
+final,settings.py,Simple Assignment,129,131,0,A1
+final,settings.py,Simple Assignment,136,136,0,A1
+final,settings.py,Simple Assignment,137,139,0,A1
+final,settings.py,Simple Assignment,141,141,0,A1
+final,settings.py,Simple Assignment,142,142,0,A1
+final,settings.py,Simple Assignment,147,147,0,A1
+final,settings.py,Import,14,14,0,A2
+final,settings.py,From,13,13,0,A2
+final,urls.py,Simple List,22,28,14,A1
