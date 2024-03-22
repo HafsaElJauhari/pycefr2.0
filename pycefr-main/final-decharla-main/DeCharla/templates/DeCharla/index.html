@@ -1,0 +1,114 @@
+{% extends "DeCharla/base.html" %}
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>{% trans 'PÁGINA PRINCIPAL' %}</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'DeCharla/style.css/' %}">
+</head>
+
+<body>
+{% block body %}
+<div class="container">
+    <h2 class="text-center mb-4" style="text-transform: uppercase; background-color: #800080; color: white; padding: 10px;">{% trans 'SALAS DISPONIBLES' %}</h2>
+
+    {% if sala_list %}
+    <div class="row">
+        {% for sala, num_mensajes, noleidos in salas_con_mensajes %}
+            <div class="col-md-6">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a href="/DeCharla/{{ sala.nombre }}" class="text-decoration-none text-dark fw-bold">{{ sala.nombre }}</a>
+                        </h5>
+                        <p class="card-title">
+                            <a href="/DeCharla/sala_dinamica/{{ sala.nombre }}" class="text-decoration-none text-dark fw-bold">{%  trans 'Sala Dinámica' %}</a>
+                        </p>
+                        <p class="card-title">
+                            <a href="/DeCharla/sala_json/{{ sala.nombre }}" class="text-decoration-none text-dark fw-bold">{%  trans 'Sala Json' %}</a>
+                        </p>
+                        <p class="card-text mb-2">{% trans 'Mensajes totales' %}: <span class="badge bg-primary">{{ num_mensajes }}</span></p>
+                        <p class="card-text mb-0">{%  trans 'Mensajes no leídos' %}:
+                            {% if noleidos > 0 %}
+                                <span class="badge bg-danger text-white"><strong>{{ noleidos }}</strong></span>
+                            {% else %}
+                                <span class="badge bg-success text-white"><strong>{{ noleidos }}</strong></span>
+                            {% endif %}
+                        <p class="card-text mb-2">{%  trans 'Me gustas totales' %}: <span class="badge bg-primary">{{ sala.votos }}</span></p>
+                        {% for voto in votos %}
+                            {% if voto.sala == sala %}
+                                {% if not voto.megusta %}
+                                    <div class="sala">
+                                        <span class="like-icon" style="cursor: pointer" onclick="likeSala('{{ sala.nombre }}')">&#x1F44D;
+                                            <i class="fa fa-thumbs-up"></i>{%  trans 'Me gusta' %} </span>
+                                    </div>
+                                {% else %}
+                                    <div class="sala">
+                                        <span class="like-icon" style="cursor: pointer" onclick="dislikeSala('{{ sala.nombre }}')">&#x2716;
+                                            <i class="fa fa-thumbs-down"></i> {%  trans 'Ya NO me gusta' %} </span>
+                                    </div>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    {% else %}
+        <p class="text-center">{%  trans 'No hay salas creadas' %}</p>
+    {% endif %}
+
+<script>
+    function likeSala(sala) {
+  const form = document.createElement('form');
+  form.method = 'POST';
+  form.action = 'votar/';
+
+  const inputAction = document.createElement('input');
+  inputAction.type = 'hidden';
+  inputAction.name = 'action';
+  inputAction.value = 'votar/';
+
+  const inputSala = document.createElement('input');
+  inputSala.type = 'hidden';
+  inputSala.name = 'sala';
+  inputSala.value = sala;
+
+  form.appendChild(inputAction);
+  form.appendChild(inputSala);
+
+  document.body.appendChild(form);
+  form.submit();
+}
+
+function dislikeSala(sala) {
+  const form = document.createElement('form');
+  form.method = 'POST';
+  form.action = 'desvotar/';
+
+  const inputAction = document.createElement('input');
+  inputAction.type = 'hidden';
+  inputAction.name = 'action';
+  inputAction.value = 'desvotar/';
+
+  const inputSala = document.createElement('input');
+  inputSala.type = 'hidden';
+  inputSala.name = 'sala';
+  inputSala.value = sala;
+  form.appendChild(inputAction);
+  form.appendChild(inputSala);
+  document.body.appendChild(form);
+  form.submit();
+}
+
+</script>
+</div>
+
+{% endblock %}
+
+</body>
+</html>

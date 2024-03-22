@@ -1,0 +1,31 @@
+{% extends "DeCharla/base.html" %}
+{% load static %}
+{%  load i18n %}
+<!DOCTYPE html>
+<head>
+    <title>{% trans 'PÁGINA SALA' %}</title>
+    <link rel="icon" href="{% static 'DeCharla/favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'DeCharla/css/bootstrap.min.css' %}">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+</head>
+<body>
+{%  block body %}
+
+    <div class="chat-container">
+    <h2 class="chat-title">{{ sala }}</h2>
+
+    <div class="container-fluid">
+    <div class="row">
+        <div class="col-xxl-12">
+            <div id="messages"></div>
+            <script>
+                const url_messages = '{% url 'sala_json' sala=sala %}';
+            </script>
+            <script type="text/javascript" src='{% static "DeCharla/script.js" %}' ></script>
+        </div>
+    </div>
+    </div>
+</div>
+{% endblock %}
+</body>

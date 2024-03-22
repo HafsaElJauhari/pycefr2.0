@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+  <message isimg="false">
+    <author>Anónimo</author>
+    <text>Contenido del mensaje 1</text>
+    <date>2023-04-16T14:04:01</date>
+  </message>
+  <message isimg="true">
+    <author>Hafsa</author>
+    <text>https://gsyc.urjc.es/~mortuno/images/logo_urjc.jpg</text>
+    <date>2023-04-16T14:10:30</date>
+  </message>
+</messages>

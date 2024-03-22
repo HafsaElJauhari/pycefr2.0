@@ -1,0 +1,104 @@
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DeCharla</title>
+    <link rel="icon" href="{% static 'DeCharla/favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'DeCharla/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'DeCharla/style.css/' %}">
+    <style>
+        body {
+            font-size: {{ configuracion.tamano_fuente }}px;
+            font-family: {{ configuracion.tipo_fuente }};
+            background-color: #b9adc7
+        }
+
+        header {
+            background-image: url("{% static 'DeCharla/banner/bannerDeCharla.jpg' %}");
+        }
+    </style>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="{% static 'DeCharla/style.css/' %}">
+    <header class="bg-primary text-white">
+        <a href="/DeCharla/" class="decharla">DeCharla</a>
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <ul class="navbar-nav mr-auto">
+            <div id="configuracion">
+              <li class="nav-item">
+                <a class="nav-link" href="/DeCharla/configuracion">{%  trans "Configuración" %}</a>
+              </li>
+            </div>
+            <div id="principal">
+              <li class="nav-item">
+                <a class="nav-link" href="/DeCharla/">{% trans 'Principal' %}</a>
+              </li>
+            </div>
+            <div id="admin">
+              <li class="nav-item">
+                <a class="nav-link" href="/admin/">Admin</a>
+              </li>
+            </div>
+            <div id="help">
+              <li class="nav-item">
+                <a class="nav-link" href="/DeCharla/help">{% trans 'Ayuda' %}</a>
+              </li>
+            </div>
+            <script>
+              var currentUrl = window.location.pathname;
+
+              if (currentUrl === "/DeCharla/") {
+                document.getElementById("principal").style.display = "none";
+              } else if (currentUrl === "/DeCharla/configuracion") {
+                document.getElementById("configuracion").style.display = "none";
+              } else if (currentUrl === "/admin/") {
+                document.getElementById("admin").style.display = "none";
+              } else if (currentUrl === "/DeCharla/help") {
+                document.getElementById("help").style.display = "none";
+              }
+            </script>
+            <a href="{% url 'logout' %}" class="btn btn-secondary logout-link">{%  trans 'Cerrar sesión' %}</a>
+            </ul>
+
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                {% block body %}
+                {% endblock %}
+            </div>
+            <div class="col-lg-3 position-fixed bottom-0 end-0">
+                <div class="custom-bg">
+                    <p class="fs-5 text-light"> {% trans 'Hola' %} {{ configuracion.nombre }}!</p>
+                    <p class="fs-6 text-light">{%  trans 'Introduce un nombre para crear una sala o bien para entrar a una ya existente si así lo desea.' %}</p>
+                    <form method="post" action="{% url 'crear_sala' %}" class="mt-4">
+                        {% csrf_token %}
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="nombre_sala" placeholder="{% trans 'Nombre de la sala' %}">
+                        </div>
+                        <button type="submit" class="btn btn-light">{%  trans 'Crear Sala' %}</button>
+                    </form>
+                </div>
+            </div>
+            </div>
+        </div>
+    </main>
+    <script src="{% static 'DeCharla/js/bootstrap.min.js' %}"></script>
+
+    <footer class="bg-light">
+        <div class="container">
+            <p class="text-dark">{% trans 'Mensajes' %}: {{ total_mensajes_textuales }} ({% trans 'textuales' %}), {{ total_mensajes_imagenes }} ({% trans 'imágenes' %}).
+                {% trans 'Salas activas' %}: {{ total_salas_activas }}</p>
+        </div>
+    </footer>
+
+</body>
+</html>

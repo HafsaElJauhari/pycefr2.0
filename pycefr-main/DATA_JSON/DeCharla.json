@@ -1,0 +1,106 @@
+{
+    "DeCharla": {
+        "admin.py": {
+            "Levels": {
+                "A2": 15,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 14,
+                "From": 1,
+                "Relative From": 1
+            }
+        },
+        "apps.py": {
+            "Levels": {
+                "A1": 2,
+                "A2": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Assignment": 2,
+                "From": 1,
+                "Inherited Class from AppConfig": 1
+            }
+        },
+        "forms.py": {
+            "Levels": {
+                "A1": 9,
+                "A2": 13,
+                "B1": 6
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Atributte": 12,
+                "Simple Assignment": 8,
+                "From with 'as' extension ": 1,
+                "From": 1,
+                "Relative From": 1,
+                "Simple Class ": 4
+            }
+        },
+        "models.py": {
+            "Levels": {
+                "A1": 49,
+                "A2": 49,
+                "B1": 8
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 6,
+                "Str": 3,
+                "Simple Atributte": 48,
+                "Simple Assignment": 24,
+                "From": 1,
+                "From with 'as' extension ": 1,
+                "Function with Simple argument": 7,
+                "Return": 7,
+                "Simple Class ": 7
+            }
+        },
+        "urls.py": {
+            "Levels": {
+                "A1": 2,
+                "A2": 16,
+                "B1": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Atributte": 13,
+                "Assigment with sum (total = total +)": 1,
+                "From": 3,
+                "Relative From": 1
+            }
+        },
+        "views.py": {
+            "Levels": {
+                "A1": 216,
+                "A2": 230,
+                "B1": 9
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 10,
+                "Simple Dictionary": 7,
+                "Int": 1,
+                "Str": 1,
+                "Simple Atributte": 208,
+                "Simple Assignment": 119,
+                "Assigment with sum (total = total +)": 2,
+                "Simplified incremental Assignment with increase amount": 1,
+                "Simplified incremental Assignment with decrease subtraction": 1,
+                "'raise' exception": 1,
+                "Import": 1,
+                "From": 12,
+                "Relative From": 2,
+                "Simple If statements": 27,
+                "Simple For Loop": 5,
+                "Exception --> try/except": 5,
+                "Function with Simple argument": 15,
+                "Function with Simple argument with ** argument": 1,
+                "Function": 1,
+                "Return": 33
+            }
+        }
+    }
+}

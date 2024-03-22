@@ -1,0 +1,53 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,6,6,0,A2
+DeCharla,admin.py,Simple Atributte,7,7,0,A2
+DeCharla,admin.py,Simple Atributte,8,8,0,A2
+DeCharla,admin.py,Simple Atributte,9,9,0,A2
+DeCharla,admin.py,Simple Atributte,10,10,0,A2
+DeCharla,admin.py,Simple Atributte,11,11,0,A2
+DeCharla,admin.py,Simple Atributte,5,5,0,A2
+DeCharla,admin.py,Simple Atributte,6,6,0,A2
+DeCharla,admin.py,Simple Atributte,7,7,0,A2
+DeCharla,admin.py,Simple Atributte,8,8,0,A2
+DeCharla,admin.py,Simple Atributte,9,9,0,A2
+DeCharla,admin.py,Simple Atributte,10,10,0,A2
+DeCharla,admin.py,Simple Atributte,11,11,0,A2
+DeCharla,admin.py,From,1,1,0,A2
+DeCharla,admin.py,Relative From,2,2,0,B1
+DeCharla,apps.py,Simple Assignment,5,5,4,A1
+DeCharla,apps.py,Simple Assignment,5,5,4,A1
+DeCharla,apps.py,Simple Assignment,6,6,4,A1
+DeCharla,apps.py,From,1,1,0,A2
+DeCharla,apps.py,Inherited Class from AppConfig,4,6,0,B1
+DeCharla,forms.py,Simple List,10,10,17,A1
+DeCharla,forms.py,Simple List,10,10,17,A1
+DeCharla,forms.py,Simple Atributte,5,5,18,A2
+DeCharla,forms.py,Simple Atributte,12,12,24,A2
+DeCharla,forms.py,Simple Atributte,17,17,15,A2
+DeCharla,forms.py,Simple Atributte,6,6,16,A2
+DeCharla,forms.py,Simple Atributte,7,7,13,A2
+DeCharla,forms.py,Simple Atributte,13,13,13,A2
+DeCharla,forms.py,Simple Atributte,14,14,20,A2
+DeCharla,forms.py,Simple Atributte,15,15,18,A2
+DeCharla,forms.py,Simple Atributte,18,18,18,A2
+DeCharla,forms.py,Simple Atributte,6,6,39,A2
+DeCharla,forms.py,Simple Atributte,14,14,78,A2
+DeCharla,forms.py,Simple Atributte,15,15,71,A2
+DeCharla,forms.py,Simple Assignment,6,6,4,A1
+DeCharla,forms.py,Simple Assignment,7,7,4,A1
+DeCharla,forms.py,Simple Assignment,13,13,4,A1
+DeCharla,forms.py,Simple Assignment,14,14,4,A1
+DeCharla,forms.py,Simple Assignment,15,15,4,A1
+DeCharla,forms.py,Simple Assignment,18,18,4,A1
+DeCharla,forms.py,Simple Assignment,9,9,8,A1
+DeCharla,forms.py,Simple Assignment,10,10,8,A1
+DeCharla,forms.py,From with 'as' extension ,1,1,0,B1
+DeCharla,forms.py,From,2,2,0,A2
+DeCharla,forms.py,Relative From,3,3,0,B1
+DeCharla,forms.py,Simple Class ,5,10,0,B1
+DeCharla,forms.py,Simple Class ,12,15,0,B1
+DeCharla,forms.py,Simple Class ,17,18,0,B1
+DeCharla,forms.py,Simple Class ,8,10,4,B1
+migrations,0001_initial.py,Simple List,12,14,19,A1

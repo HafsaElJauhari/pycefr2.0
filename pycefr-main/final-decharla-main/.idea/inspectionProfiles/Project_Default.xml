@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cms_project.cms.models.Contenido.objects" />
+          <option value="acorta.views.Http301" />
+          <option value="project.acorta.models.Contenido.objects" />
+          <option value="project.acorta.models.Contenido.DoesNotExist" />
+          <option value="cms_project.cms_user_put.models.Contenido.objects" />
+          <option value="cms_project.cms_user_put.models.Contenido.DoesNotExist" />
+          <option value="urllib.request" />
+          <option value="youtube.xml_parser_youtube.CounterHandler.parse" />
+          <option value="parser_yt.link" />
+          <option value="DeCharla.urls.configuracion" />
+          <option value="DeCharla.models.Usuario.check_password" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
